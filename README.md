@@ -22,7 +22,7 @@ This script compiles all the `.cpp` files in `src` folder and creates an output 
 
 ### magic.sh
 ```bash
-./compile-and-run.sh
+./magic.sh
 ```
 This script compiles all the `.cpp` files in `src` folder and creates an output file named as project name. After that runs the output file.
 
